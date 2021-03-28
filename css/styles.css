@@ -814,7 +814,7 @@ body {
 }
 
 .modal-form-term:checked + .modal-form-check-desc::before {
-  background-image: url("/images/svg/icon\ check.svg");
+  background-image: url("../images/svg/icon\ check.svg");
   background-position: center;
   outline: none;
   background-color: var(--accent-color);
