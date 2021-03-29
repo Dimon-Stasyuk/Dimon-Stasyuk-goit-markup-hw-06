@@ -818,7 +818,6 @@ body {
   background-position: center;
   outline: none;
   background-color: var(--accent-color);
-
   border-color: var(--accent-color);
 }
 .modal-form-check-desc {
@@ -863,6 +862,7 @@ body {
 
 .e-mail-input-title {
   font-weight: 700;
+  text-transform: uppercase;
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.03em;
